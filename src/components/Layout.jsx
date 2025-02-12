@@ -5,7 +5,7 @@ const Layout = () => {
   return (
     <>
     <div className='flex'>
-        <div>
+        <div className='flex'>
             <nav>
                 <Link to={'/'}>Dashboard</Link>
                 <Link to={'/contacts'}>Contacts</Link>
