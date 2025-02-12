@@ -7,7 +7,7 @@ const Layout = () => {
     <div className='flex'>
         <div className='flex'>
             <nav>
-                <Link to={'/'}>Dashboard</Link>
+                <Link to={'/'}>Dashboard2</Link>
                 <Link to={'/contacts'}>Contacts</Link>
             </nav>
         </div>
